@@ -1,4 +1,4 @@
-#Checkers model
+# Checkers model
 
 Checker object with light/dark boolean property and king boolean property
 
